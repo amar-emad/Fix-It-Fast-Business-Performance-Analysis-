@@ -85,4 +85,3 @@ The data was modeled using a star-schema approach with the following dimensions:
 - Excel  
 - Data Modeling (Star Schema)  
 - Data Visualization & Storytelling
-- 
