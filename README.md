@@ -84,4 +84,5 @@ The data was modeled using a star-schema approach with the following dimensions:
 - Power BI  
 - Excel  
 - Data Modeling (Star Schema)  
-- Data Visualization & Storytelling  
+- Data Visualization & Storytelling
+- 
